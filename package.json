@@ -1,0 +1,23 @@
+{
+  "name": "hlbot",
+  "version": "1.0.0",
+  "description": "Bot for hackland",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celestial-30/HLBOT.git#main"
+  },
+  "author": "Zach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celestial-30/HLBOT/issues"
+  },
+  "homepage": "https://github.com/celestial-30/HLBOT/tree/main#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0",
+    "twitter": "^1.7.1"
+  }
+}
